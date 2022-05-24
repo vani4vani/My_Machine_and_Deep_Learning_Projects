@@ -6,19 +6,18 @@
 **Domain:** Finance <br/> 
 **Use:** Regression <br/>
 
-## Polynomial Regression
-## Random Forest Regression
-## Support Vector Regression
-## Decision Tree Regression
+### Polynomial Regression
+### Random Forest Regression#### Support Vector Regression
+### Decision Tree Regression
 
 ### Predicting salaries and position of an employee in the company using various algorithms.
 
 # 2.
 **Level:** Intermediate <br/>
 **Domain:** Finance <br/> 
-**Use:** Regression <br/>
+**Use:** Regression <br/>#
 
-## Simple Linear Regression
+### Simple Linear Regression
 
 ### Predicting salary and experience of an employee in the company using ML algorithms.
 
@@ -27,7 +26,7 @@
 **Domain:** Finance <br/> 
 **Use:** Regression <br/>
 
-## Multiple Linear Regression
+### Multiple Linear Regression
 
 ### Predicting 50 Start-Ups revenue based on using ML algorithms.
 
@@ -36,11 +35,12 @@
 **Domain:** Food and Bevarages <br/> 
 **Use:** Regression <br/>
 
-## Logistic Regression
+### Logistic Regression
+
 ### Dimentionality Reduction-
-## Kernel PCA
-## Principle Component Analysis
-## Linear Discriminant Analysis
+### Kernel PCA
+### Principle Component Analysis
+### Linear Discriminant Analysis
 
 ### Predicting Wine quality.
 
@@ -50,7 +50,7 @@
 **Use:** Regression <br/>
 
 ## Natural Language Processing
-## Naive-bayes
+### Naive-bayes
 
 ### Restaurant Reviews Analyzing.
 
@@ -59,14 +59,14 @@
 **Domain:** Media and Internet <br/> 
 **Use:** Classification <br/>
 
-## Logistic Regression
-## K_Nearst Neibors
-## Kernel SVM
-## Polynomial Regression
-## Random Forest Classification
-## Support Vector Machine
-## Decision Tree Classification
-## Naive-bayes
+### Logistic Regression
+### K_Nearst Neibors
+### Kernel SVM
+### Polynomial Regression
+### Random Forest Classification
+### Support Vector Machine
+### Decision Tree Classification
+### Naive-bayes
 
 ### Predict social network ad selection based age and salary of a user.
 
