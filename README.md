@@ -1,72 +1,128 @@
-# My_Machine_n_Deep_Learning_Projects
-
-## Regression 
-# 1.
+# My Machine & Deep Learning Projects                               
+#### Duration : 2020 - 2021
 **Level:** Intermediate <br/>
-**Domain:** Finance <br/> 
+
+## SUPERVISED LEARNING
+## Regression
+
+### 1. Predicting salaries and position of an employee in the company using machine learning models.
 **Use:** Regression <br/>
 
-### Polynomial Regression
-### Random Forest Regression#### Support Vector Regression
-### Decision Tree Regression
+***Polynomial Regression*** <br/>
+***Random Forest Regression*** <br/>
+***Support Vector Regression*** <br/>
+***Decision Tree Regression***
 
-### Predicting salaries and position of an employee in the company using various algorithms.
-
-# 2.
-**Level:** Intermediate <br/>
-**Domain:** Finance <br/> 
-**Use:** Regression <br/>#
-
-### Simple Linear Regression
-
-### Predicting salary and experience of an employee in the company using ML algorithms.
-
-# 2.
-**Level:** Intermediate <br/>
-**Domain:** Finance <br/> 
+ <hr/>
+ 
+### 2.Predicting salary and experience of an employee in the company using machine learning model. 
 **Use:** Regression <br/>
 
-### Multiple Linear Regression
+***Simple Linear Regression***
 
-### Predicting 50 Start-Ups revenue based on using ML algorithms.
+<hr/>
 
-# 2.
-**Level:** Intermediate <br/>
-**Domain:** Food and Bevarages <br/> 
+### 3.Predicting 50 Start-ups revenue based on using machine learning model.
 **Use:** Regression <br/>
 
-### Logistic Regression
+***Multiple Linear Regression***
 
-### Dimentionality Reduction-
-### Kernel PCA
-### Principle Component Analysis
-### Linear Discriminant Analysis
+<hr/>
 
-### Predicting Wine quality.
-
-# 2. Natural Language Processing
-**Level:** Intermediate <br/>
-**Domain:** Hospitality <br/> 
+### 2.Predicting wine quality 
 **Use:** Regression <br/>
+***Logistic Regression*** <br/> 
+
+***Dimentionality Reduction-*** <br/> 
+***Kernel PCA*** <br/> 
+***Principle Component Analysis*** <br/> 
+***Linear Discriminant Analysis*** <br/> 
+
+<hr/>
 
 ## Natural Language Processing
-### Naive-bayes
-
-### Restaurant Reviews Analyzing.
-
-# 2.
-**Level:** Intermediate <br/>
-**Domain:** Media and Internet <br/> 
+### 1.Restaurant Reviews Analyzing 
 **Use:** Classification <br/>
 
-### Logistic Regression
-### K_Nearst Neibors
-### Kernel SVM
-### Polynomial Regression
-### Random Forest Classification
-### Support Vector Machine
-### Decision Tree Classification
-### Naive-bayes
+#### Natural Language Processing
+***Naive-bayes***
 
-### Predict social network ad selection based age and salary of a user.
+<hr/>
+
+##  Classification
+### 1. Predict social network ad selection(click) based on age and salary of a user
+**Use:** Classification <br/>
+
+***Logistic Regression*** <br/> 
+***K_Nearst Neibors*** <br/> 
+***Kernel SVM*** <br/> 
+***Random Forest Classification*** <br/> 
+***Support Vector Machine*** <br/> 
+***Decision Tree Classification*** <br/> 
+***Naive-bayes*** <br/> 
+
+<hr/>
+
+## UNSUPERVISED LEARNING
+## Clustering
+### 1.Predicting Mall Customers Spending Score
+**Use:** Clustering <br/>
+
+***Hierarchical Clustering*** <br/> 
+***K-Means Clustering*** <br/> 
+
+<hr/>
+
+## Association Rule Learning
+### 1.Market Basket Optimasation
+**Use:** Association Rule Learning <br/>
+
+***Apriori*** <br/> 
+***Elact*** <br/> 
+
+<hr/>
+
+## REINFORCEMENT LEARNING
+### 1.Advertisement Control Optimasation
+**Use:** Advertisement Control Optimasation <br/>
+
+***Upper Confidence Bound*** <br/> 
+***Thompson Sampling*** <br/> 
+
+<hr/>
+
+# DEEP LEARNING
+### 1. Bank costomers churn prediction 
+**Use:** Artificial Neural Network <br/>
+
+***Tensorflow*** <br/> 
+***Keras*** <br/> 
+
+<hr/>
+
+### 2. Dog or Cat prediction from image dataset
+**Use:** Convolutional Neural Network <br/>
+
+***Tensorflow*** <br/> 
+***Keras*** <br/> 
+***Conv2D*** <br/> 
+***ImageDataGenerator*** <br/> 
+
+<hr/>
+
+### 3. Energy Output predition of a combined power plant
+**Use:** Artificial Neural Network <br/>
+
+***Tensorflow*** <br/> 
+***Keras*** <br/> 
+
+<hr/>
+
+### 4. Breast cancer prediction  
+**Use:** Convolutional Neural Network <br/>
+
+***Model Selection-*** <br/> 
+***catboost*** <br/> 
+***xgboost*** <br/> 
+
 
