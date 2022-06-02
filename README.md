@@ -1,5 +1,5 @@
 # My Machine & Deep Learning Projects                               
-#### Duration : 2020 - 2021
+#### Duration : 2020 - 2022
 **Level:** Intermediate <br/>
 
 ## SUPERVISED LEARNING
